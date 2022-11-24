@@ -4,10 +4,11 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a6a76f713c629bb1dce8fa3bb3effc08",
-"index.html": "462bb02bde4cfddabb7894ba57acd582",
-"/": "462bb02bde4cfddabb7894ba57acd582",
+"index.html": "ea7f68a4fdd5c88257ca22f44fd4494a",
+"/": "ea7f68a4fdd5c88257ca22f44fd4494a",
 "images/splash.jpg": "4baa5c9338f8c58c6425b03f7d86456d",
 "main.dart.js": "12280fd8eb270569791bc65793a51932",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -51,7 +52,11 @@ const RESOURCES = {
 "assets/assets/vectors/simform_logo.svg": "3da0526954482de6820e5f0290024a09",
 "assets/assets/vectors/searching-data.svg": "283e99ee189e98d862c7f67335adfd4c",
 "assets/assets/vectors/sliderArrow.svg": "efc92921973646e5bbb92238aba1f9db",
-"app.js": "9966c24b331fe2d74caafbf6c88285c7"
+"app.js": "9966c24b331fe2d74caafbf6c88285c7",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
